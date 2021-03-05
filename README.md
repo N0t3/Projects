@@ -1,2 +1,2 @@
 # Projects
-A folder of small projects
+A folder for small projects
